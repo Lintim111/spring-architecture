@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.lintim111.spring.architecture.spring.boot.starter.demo.sms.SmsAutoConfiguration
